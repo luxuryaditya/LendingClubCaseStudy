@@ -68,11 +68,11 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 
 ## Technologies Used
-Python - version 3.11.4
-Matplotlib - version 3.7.1
-Numpy - version 1.24.3
-Pandas - version 1.5.3
-Seaborn - version 0.12.2
+* Python - version 3.11.4
+* Matplotlib - version 3.7.1
+* Numpy - version 1.24.3
+* Pandas - version 1.5.3
+* Seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
