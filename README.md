@@ -27,23 +27,41 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 ## Conclusions
 • Income range between 0-20000 has high chances of charged off.
+
 • Interest rate more than 16% has good chances of charged off as compared to other category interest rates.
+
 • Those who are not owning the home is having high chances of loan defaulter.
+
 • Those applicants having loan for small business is having high chances for loan defaults.
+
 • High DTI value having high risk of defaults.
+
 • Higher the Bankruptcies record higher the chance of loan defaults.
+
 • DE States is holding highest number of loan defaults.
+
 • The Loan applicants with loan Grade G is having highest Loan Defaults.
+
 • Applicant having home ownership as MORTGAE and Average Annual income 60K or loan amount more than 14K has higher chance of defaulting.
+
 • small_business loan where avegrage loan_amount is more than 14K has higher default.
+
 • Verified status having loan amount greater than 16K has higher chance of defaulting. This also indicates issue in verification process.
+
 • G grade has higher defaults when interest rate is above 20%. F grade has highest defaults when average loan amount is between 15-20K.
+
 • Employment length >10+ years has higher chances of defaults with an average loan amount 14500.
+
 • December month has higher defaults having average loan amount 13K.
+
 • vacation loans in AK, HI, OR is risky. House loans in NH, WV is risky. small business loans in DE, NM, WV, WY is risky.
+
 • small business loans for lowest and medium income groups (4K-65K) has higher chance of defaulting.
+
 • Medium debt-to-income group in the lowest income range has higher chances of defaulting.
+
 • home ownership OTHER has high default when loan purpose is moving or car.
+
 • Applicants with prb_rec/pub_rec_bankruptcies or open_acc/total_acc has higher chances of defaulting.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
